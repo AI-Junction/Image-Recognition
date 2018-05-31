@@ -1,18 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Apr 20 23:19:37 2017
-
-@author: Chandrakant Pattekar
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  5 22:54:11 2017
-
-@author: Chandrakant Pattekar
-
 Location on github:
-https://github.com/AI-Junction/Image-Recognition/blob/master/Digits-Recognition/mnist-cnn-V1.py
+https://github.com/AI-Junction/Image-Recognition/blob/master/Digits-Recognition/mnist-cnn-V3.py
 
 """
 #%%
